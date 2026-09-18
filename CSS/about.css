@@ -1,0 +1,134 @@
+#header-background{
+
+    background-image: url("../Images/kettlebell.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 5px;
+    background-size: 100%;
+    border-bottom: 15px;
+    
+}
+
+#background {
+
+    background-image: url(../Images/wall.jpg);
+    background-size: contain;
+    
+}
+
+.logo{
+
+    width: 120px;
+    border-radius: 75px;
+    margin-left: 12px;
+    margin-top: 18px;
+}
+
+.buttons{
+
+    text-align: right;
+    margin-right: 5px;
+    
+}
+
+a:link,a:visited{
+
+    background-color: darkred;
+    padding: 10px;
+    text-decoration: none;
+    width: 30px;
+    font-weight: 800;
+    color: whitesmoke;
+    margin-bottom: px;
+    border-radius: 8px;
+    margin-right: 5px;
+}
+
+#heading {
+
+    text-align: center;
+    color: rgba(245, 245, 245, 0.904);
+    font-size: 25px;
+    font-weight: 900;
+    font-family: georgia;
+    text-decoration: underline;
+}
+
+#about-text {
+
+    color: white;
+    font-size: 25px;
+    font-weight: 800;
+    font-family: courier;
+   
+}
+
+.serv h1{
+
+    color: whitesmoke;
+    text-decoration: underline;
+    margin-left: 35px;
+    font-family: monospace;
+}
+
+#list {
+
+    font-size: 22px;
+    color: whitesmoke;
+    font-family: monospace;
+}
+
+#team {
+
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 50px;
+    font-family: monospace;
+}
+
+#classes {
+
+    text-decoration: underline;
+    font-family: monospace;
+    color: whitesmoke;
+}
+
+#classes1 {
+
+    text-decoration: underline;
+    font-family: monospace;
+    color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+}
+
+#table table {
+
+    width: 100%;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 23px;
+}
+
+#address{
+
+    text-align: right;
+    color: whitesmoke;
+    font-size: 20px;
+    
+}
+
+#class {
+
+    text-align: right;
+    color: whitesmoke;
+}
+
+#footer {
+
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+    margin-top: 5px;
+
+}

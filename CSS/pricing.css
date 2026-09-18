@@ -1,0 +1,90 @@
+#header-background{
+
+    background-image: url("../Images/kettlebell.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 5px;
+    background-size: 100%;
+    border-bottom: 15px;
+    
+}
+
+#background {
+
+    background-image: url(../Images/straight.jpg);
+    
+}
+
+.logo{
+
+    width: 120px;
+    border-radius: 75px;
+    margin-left: 12px;
+    margin-top: 18px;
+}
+
+.buttons{
+
+    text-align: right;
+    margin-right: 5px;
+    
+}
+
+a:link,a:visited{
+
+    background-color: darkred;
+    padding: 10px;
+    text-decoration: none;
+    width: 30px;
+    font-weight: 800;
+    color: whitesmoke;
+    margin-bottom: px;
+    border-radius: 8px;
+    margin-right: 5px;
+}
+
+#heading {
+
+    color: whitesmoke;
+    text-align: center;
+}
+
+.pricing-table {
+
+    width: 100%;
+    border: 1px solid white;
+    border-collapse: collapse;
+    color: whitesmoke;
+}
+
+.pricing-table th, .pricing-table td{
+
+    border: 1px solid white;
+    text-align: center;
+    padding: 15px;
+    color: whitesmoke;
+
+}
+
+.pricing-table tr {
+
+    height: 3cm;
+}
+
+.pricing-table th {
+
+    color: white;
+    font-size: 18px;
+
+}
+
+
+
+#footer {
+
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+    margin-top: 5px;
+
+}

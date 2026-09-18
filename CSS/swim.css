@@ -1,0 +1,54 @@
+#header-background{
+
+    background-image: url("../Images/kettlebell.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 5px;
+    background-size: 100%;
+    border-bottom: 15px;
+    
+}
+
+#background {
+
+    background-color: darkslategray;
+    
+}
+
+.logo{
+
+    width: 120px;
+    border-radius: 75px;
+    margin-left: 12px;
+    margin-top: 18px;
+}
+
+.buttons{
+
+    text-align: right;
+    margin-right: 5px;
+    
+}
+
+a:link,a:visited{
+
+    background-color: darkred;
+    padding: 10px;
+    text-decoration: none;
+    width: 30px;
+    font-weight: 800;
+    color: whitesmoke;
+    margin-bottom: px;
+    border-radius: 8px;
+    margin-right: 5px;
+}
+
+#footer {
+
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    margin-top: 5px;
+    font-weight: 900;
+
+}

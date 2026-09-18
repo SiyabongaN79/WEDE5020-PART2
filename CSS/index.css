@@ -1,0 +1,101 @@
+#header-background{
+
+    background-image: url("../Images/kettlebell.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 5px;
+    background-size: 100%;
+    border-bottom: 15px;
+    
+}
+
+#background {
+
+    background-color: black;
+}
+
+.logo{
+
+    width: 120px;
+    border-radius: 75px;
+    margin-left: 12px;
+    margin-top: 18px;
+}
+
+.buttons{
+
+    text-align: right;
+    margin-right: 5px;
+    
+}
+
+a:link,a:visited{
+
+    background-color: darkred;
+    padding: 10px;
+    text-decoration: none;
+    width: 30px;
+    font-weight: 800;
+    color: whitesmoke;
+    margin-bottom: px;
+    border-radius: 8px;
+    margin-right: 5px;
+}
+
+.welcome-message{
+
+    text-align: center;
+    font-family: serif;
+    font-size: 35px;
+    font-weight: 520;
+    color: whitesmoke;
+}
+
+#company-name{
+
+    font-size: 45px;
+    font-weight: 550;
+    display: inline;
+    text-decoration: underline;
+    
+}
+
+.video {
+
+  margin-top: 45px;
+  border: solid;
+  border-color: darkred;
+  background-color: darkred;
+  text-align: center;
+
+}
+
+#why-us {
+
+    color: whitesmoke;
+    font-family: serif;
+    font-size: 45px;
+    margin-right: 8px;
+}
+
+.Convenience, .Coaches, .equipment, .class{
+
+    display: inline-block;
+    margin-right: 35px;
+    color: whitesmoke;
+
+}
+
+h3{
+
+    font-size: 25px;
+}
+
+#footer {
+
+    text-align: center;
+    color: whitesmoke;
+    font-size: 20px;
+    margin-top: 5px;
+
+}
